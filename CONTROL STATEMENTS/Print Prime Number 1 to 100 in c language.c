@@ -4,7 +4,7 @@ int main()
 int i,j;
 for(i=1;i<=100;i++)
 {
-		int count=0;
+		int count=0;   // here everytime count start by 0
 	for(j=1;j<=i;j++)
 	{
 	
